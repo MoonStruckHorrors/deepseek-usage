@@ -7,7 +7,7 @@ automatically.
 ## Install
 
 ```
-/plugin install https://github.com/Nikhil-Vyas/deepseek-usage.git
+/plugin install https://github.com/MoonStruckHorrors/deepseek-usage.git
 ```
 
 ## Usage
