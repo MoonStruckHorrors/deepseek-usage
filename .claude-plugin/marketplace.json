@@ -6,7 +6,10 @@
   "plugins": [
     {
       "name": "deepseek-usage",
-      "source": ".",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/MoonStruckHorrors/deepseek-usage.git"
+      },
       "description": "Check your DeepSeek API balance and usage directly from Claude Code. Finds your API key automatically."
     }
   ]
