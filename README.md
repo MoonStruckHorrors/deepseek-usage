@@ -6,8 +6,14 @@ automatically.
 
 ## Install
 
+**Step 1** — Add the marketplace:
 ```
-/plugin install https://github.com/MoonStruckHorrors/deepseek-usage.git
+/plugin marketplace add MoonStruckHorrors/deepseek-usage
+```
+
+**Step 2** — Install the plugin:
+```
+/plugin install deepseek-usage@deepseek-usage
 ```
 
 ## Usage
