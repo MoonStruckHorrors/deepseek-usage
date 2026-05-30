@@ -1,0 +1,9 @@
+{
+  "name": "deepseek-usage",
+  "description": "Check your DeepSeek API balance and usage directly from Claude Code. Finds your API key automatically from environment variables or shell profiles.",
+  "author": {
+    "name": "Nikhil Vyas"
+  },
+  "version": "1.0.0",
+  "license": "MIT"
+}
