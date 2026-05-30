@@ -1,0 +1,13 @@
+{
+  "name": "deepseek-usage",
+  "owner": {
+    "name": "Nikhil Vyas"
+  },
+  "plugins": [
+    {
+      "name": "deepseek-usage",
+      "source": ".",
+      "description": "Check your DeepSeek API balance and usage directly from Claude Code. Finds your API key automatically."
+    }
+  ]
+}
